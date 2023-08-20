@@ -1,2 +1,1 @@
-# prepcourse-henry
-repo de prueba mod 2 henry prepcourse
+Este proyecto es una prueba de como crear u repositorio y vlonarlo desde github a mi pc
